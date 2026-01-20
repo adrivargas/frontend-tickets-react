@@ -1,0 +1,23 @@
+.unauthorized {
+  padding: 40px 20px;
+  min-height: calc(100vh - 200px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.unauthorized-card {
+  text-align: center;
+  max-width: 500px;
+}
+
+.unauthorized-card h1 {
+  color: var(--danger-color);
+  margin-bottom: 20px;
+}
+
+.unauthorized-message {
+  color: var(--text-secondary);
+  margin: 20px 0;
+  line-height: 1.6;
+}

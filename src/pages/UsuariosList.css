@@ -1,0 +1,8 @@
+.usuarios-list {
+  padding: 40px 20px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 5px;
+}
